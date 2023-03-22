@@ -1,0 +1,14 @@
+certifi
+chardet
+idna
+requests
+selenium==4.4.3
+urllib3
+ipapi
+func_timeout
+random-word==1.0.7
+pyyaml
+notifiers
+webdriver-manager
+packaging
+pyvirtualdisplay
